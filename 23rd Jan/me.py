@@ -42,4 +42,9 @@ print(my_sis)
 print(my_sibling)
 print(my_sister)
 
-#Research on complex numbers
+#Escape Characters
+statement = "Joshua's mother is a good woman.:)"
+print(statement)
+
+statement = "Joshua\'s mother is a good woman.:)"
+print(statement)
