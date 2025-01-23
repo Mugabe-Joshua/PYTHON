@@ -19,3 +19,28 @@ print(type(my_height))
 print(type(is_male))
 #ASSIGNMENT COMPLETE! :)
 
+<<<<<<< Updated upstream
+=======
+my_first_friend, my_second_friend, my_third_friend = "Hakim", "Aaron", "Eliot"
+print(my_first_friend)
+print(my_second_friend)
+print(my_third_friend)
+
+# my_first_friend, my_second_friend, my_third_friend = "Hakim", "Aaron", #"Eliot" I have removed the value of my_third_friend thus resulting in an error.
+# print(my_first_friend)
+# print(my_second_friend)
+# print(my_third_friend)
+
+#ASSIGNING A VALUE TO A VARIETY OF VARIABLES
+my_name = "Joshua"
+my_sister = "Joshua"
+my_brother = "Joshua"
+print(my_name)
+print(my_brother)
+print(my_sister)
+
+my_sis = my_sibling = my_sister = "Jude"    #Assigning the same value to multiple variables
+print(my_sis)
+print(my_sibling)
+print(my_sister)
+>>>>>>> Stashed changes
