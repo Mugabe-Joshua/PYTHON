@@ -54,3 +54,115 @@ print(statement)
 complex_number = 3 + 4j
 print(complex_number)
 print(type(complex_number))
+
+#OPERATORS:
+
+#Arithmetic operators
+#Addition
+num1 = 10
+num2 = 5
+result = num1 + num2
+print(result)
+
+#Subtraction
+result = num1 - num2
+print(result)
+
+#Multiplication
+result = num1 * num2
+print(result)
+
+#Division
+result = num1 / num2
+print(result)
+
+#Modulus
+result = num1 % num2
+print(result)
+
+#Exponentiation
+result = num1 ** num2
+print(result)
+
+#Floor Division
+result = num1 // num2
+print(result)
+
+#Comparison Operators
+#Equal to
+result = num1 == num2
+print(result)
+
+#Not equal to
+result = num1 != num2
+print(result)
+
+#Greater than
+result = num1 > num2
+print(result)
+
+#Less than
+result = num1 < num2
+print(result)
+
+#Greater than or equal to
+result = num1 >= num2
+print(result)
+
+#Less than or equal to
+result = num1 <= num2
+print(result)
+
+#Logical Operators
+#AND
+num3 = 15
+result = num1 > num2 and num1 < num3
+print(result)
+
+#OR
+result = num1 > num2 or num1 < num3
+print(result)
+
+#NOT
+result = not(num1 > num2 and num1 < num3)
+print(result)
+
+#Identity Operators
+#IS
+result = num1 is num2
+print(result)
+
+#IS NOT
+result = num1 is not num2
+print(result)
+
+#Membership Operators
+#IN
+my_list = [1, 2, 3, 4, 5]
+result = 3 in my_list
+print(result)
+
+#NOT IN
+result = 3 not in my_list
+print(result)
+
+#Bitwise Operators
+#AND
+result = num1 & num2
+print(result)
+
+#OR
+result = num1 | num2
+print(result)
+
+#XOR
+result = num1 ^ num2
+print(result)
+
+#NOT  
+result = ~num1
+print(result)
+
+#LEFT SHIFT
+result = num1 << num2
+print(result)
