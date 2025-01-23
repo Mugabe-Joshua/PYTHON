@@ -19,8 +19,6 @@ print(type(my_height))
 print(type(is_male))
 #ASSIGNMENT COMPLETE! :)
 
-<<<<<<< Updated upstream
-=======
 my_first_friend, my_second_friend, my_third_friend = "Hakim", "Aaron", "Eliot"
 print(my_first_friend)
 print(my_second_friend)
@@ -43,4 +41,3 @@ my_sis = my_sibling = my_sister = "Jude"    #Assigning the same value to multipl
 print(my_sis)
 print(my_sibling)
 print(my_sister)
->>>>>>> Stashed changes
