@@ -48,3 +48,9 @@ print(statement)
 
 statement = "Joshua\'s mother is a good woman.:)"
 print(statement)
+
+#Research complex numbers and how to represent them in python
+#Complex numbers are represented in python using the letter 'j' to represent the imaginary part of the complex number.
+complex_number = 3 + 4j
+print(complex_number)
+print(type(complex_number))
